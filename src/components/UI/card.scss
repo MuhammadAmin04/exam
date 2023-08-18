@@ -1,0 +1,16 @@
+.card:hover .hidden-button {
+  display: block;
+}
+
+.card.active .hidden-button {
+  display: block;
+}
+
+.card .content {
+  padding: 20px;
+}
+
+.hidden-button {
+  display: none;
+  margin-top: 10px;
+}
